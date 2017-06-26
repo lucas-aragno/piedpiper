@@ -1,0 +1,29 @@
+/* This file is for your main application css. */
+.container {
+  background: #fff;
+}
+.form-inline .form-group input {
+	width:100%;
+}
+.form-group {
+  float: left;
+}
+.form-group:last-child{
+  padding-right: 0%;
+}
+.one-col{
+  width: 100%;
+  padding: 10px;
+}
+.two-col{
+  width: 50%;
+  padding: 10px;
+}
+.three-col{
+  width: 33.33%;
+  padding: 10px;
+}
+.four-col{
+  width: 24.75%;
+  padding: 10px;
+}
